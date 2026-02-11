@@ -1,0 +1,151 @@
+{
+  "tags": {
+    "beach": {
+      "id": "beach",
+      "category": "scenery",
+      "synonyms": {
+        "en": [
+          "beach",
+          "seaside",
+          "coast"
+        ],
+        "zh": [
+          "海滩",
+          "沙滩",
+          "海滨"
+        ],
+        "ja": [
+          "ビーチ",
+          "海岸",
+          "浜辺"
+        ]
+      },
+      "description": {
+        "en": "Sandy or pebbly shore by the ocean or sea",
+        "zh": "海洋或湖泊旁的沙滩或砾石滩"
+      },
+      "weight": 1.0,
+      "parent_id": null
+    },
+    "mountain": {
+      "id": "mountain",
+      "category": "scenery",
+      "synonyms": {
+        "en": [
+          "mountain",
+          "alpine",
+          "peak"
+        ],
+        "zh": [
+          "山脉",
+          "山峰",
+          "山区"
+        ],
+        "ja": [
+          "山",
+          "マウンテン",
+          "山岳"
+        ]
+      },
+      "description": {},
+      "weight": 1.0,
+      "parent_id": null
+    },
+    "historical": {
+      "id": "historical",
+      "category": "culture",
+      "synonyms": {
+        "en": [
+          "historical",
+          "ancient",
+          "heritage"
+        ],
+        "zh": [
+          "历史古迹",
+          "古迹",
+          "文化遗产"
+        ],
+        "ja": [
+          "歴史的",
+          "遺跡",
+          "文化遺産"
+        ]
+      },
+      "description": {},
+      "weight": 1.0,
+      "parent_id": null
+    },
+    "family_friendly": {
+      "id": "family_friendly",
+      "category": "crowd",
+      "synonyms": {
+        "en": [
+          "family-friendly",
+          "kids-friendly",
+          "child-friendly"
+        ],
+        "zh": [
+          "适合家庭",
+          "亲子友好",
+          "儿童友好"
+        ],
+        "ja": [
+          "家族向け",
+          "子供連れOK",
+          "ファミリー向け"
+        ]
+      },
+      "description": {},
+      "weight": 1.0,
+      "parent_id": null
+    },
+    "budget": {
+      "id": "budget",
+      "category": "budget",
+      "synonyms": {
+        "en": [
+          "budget",
+          "economical",
+          "affordable"
+        ],
+        "zh": [
+          "经济型",
+          "平价",
+          "实惠"
+        ],
+        "ja": [
+          "低予算",
+          "経済的",
+          "手頃"
+        ]
+      },
+      "description": {},
+      "weight": 1.0,
+      "parent_id": null
+    },
+    "luxury": {
+      "id": "luxury",
+      "category": "budget",
+      "synonyms": {
+        "en": [
+          "luxury",
+          "premium",
+          "high-end"
+        ],
+        "zh": [
+          "豪华",
+          "高端",
+          "奢华"
+        ],
+        "ja": [
+          "ラグジュアリー",
+          "高級",
+          "贅沢"
+        ]
+      },
+      "description": {},
+      "weight": 1.0,
+      "parent_id": null
+    }
+  }
+}
